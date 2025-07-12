@@ -72,6 +72,10 @@ form {
   border-radius: 10px;
 }
 
+.hidden {
+  display: none;
+}
+
 .poem strong {
   color: green;
   font-style: italic;
